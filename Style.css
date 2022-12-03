@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(156, 234, 253, 0.836);
+
+}
+
+#gallery{
+    padding: 20px;
+    text-align: center;
+
+}
+
+#gallery img{
+    width: 700px;
+}
